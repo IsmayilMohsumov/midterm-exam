@@ -1,6 +1,6 @@
 # Ismayil-Mid-Term-Assignment
 
-Mid Term Assignment
+Mid-Term Assignment
 
 Build a resume upload portal using spring boot and thymeleaf framework
 
@@ -15,8 +15,7 @@ Maintain user login status with http session
 
 
 Admin Access:
-Create new controller for admin
-Admin will have a view page where all the resumes will be visible in the table along with a link to the uploaded resume.
+Create new controller for admin will have a view page where all the resumes will be visible in the table along with a link to the uploaded resume.
 
 ## General info
 
